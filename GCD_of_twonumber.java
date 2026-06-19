@@ -22,3 +22,7 @@ public class GCD_of_twonumber {
         sc.close();
     }
 }
+
+//temp = b;     // purana b yaad rakho
+//b = a % b;    // remainder naya b
+//a = temp;     // purana b naya a
